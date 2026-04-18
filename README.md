@@ -71,34 +71,13 @@ npm run dev
 ---
 
 ## 📸 Output Screenshots
-
 ### 🔹 AI Prediction
-
-<img src="screenshots/ai_prediction.png" width="700"/>
-
 ### 🔹 Efficiency Analysis
-
-<img src="screenshots/efficiency_analysis.png" width="700"/>
-
 ### 🔹 Monthly Report
-
-<img src="screenshots/monthly_report.png" width="700"/>
-
 ### 🔹 Peak Hours Detection
-
-<img src="screenshots/peak_hours.png" width="700"/>
-
 ### 🔹 Appliance Breakdown
-
-<img src="screenshots/appliance_breakdown.png" width="700"/>
-
 ### 🔹 Carbon Tracking
-
-<img src="screenshots/carbon_tracking.png" width="700"/>
-
 ### 🔹 Smart Recommendations
-
-<img src="screenshots/architectural_recommendations.png" width="700"/>
 
 ---
 
